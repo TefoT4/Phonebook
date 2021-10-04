@@ -1,0 +1,453 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.api\\Phonebook.api.csproj": {}
+  },
+  "projects": {
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.api\\Phonebook.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.api\\Phonebook.api.csproj",
+        "projectName": "Phonebook.api",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.api\\Phonebook.api.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\Phonebook.Services.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\Phonebook.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\Phonebook.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\Phonebook.Core.csproj",
+        "projectName": "Phonebook.Core",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\Phonebook.Core.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\Phonebook.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\Phonebook.DataAccess.csproj",
+        "projectName": "Phonebook.DataAccess",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\Phonebook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj",
+        "projectName": "Phonebook.Domains",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj",
+        "projectName": "Phonebook.Models",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\Phonebook.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\Phonebook.Repository.csproj",
+        "projectName": "Phonebook.Repository",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\Phonebook.Repository.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\Phonebook.DataAccess.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.DataAccess\\Phonebook.DataAccess.csproj"
+              },
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj"
+              },
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\Phonebook.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\Phonebook.Services.csproj",
+        "projectName": "Phonebook.Services",
+        "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\Phonebook.Services.csproj",
+        "packagesPath": "C:\\Users\\Tefo\\.nuget\\packages\\",
+        "outputPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tefo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\Phonebook.Core.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Core\\Phonebook.Core.csproj"
+              },
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Domain\\Phonebook.Domains.csproj"
+              },
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Models\\Phonebook.Models.csproj"
+              },
+              "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\Phonebook.Repository.csproj": {
+                "projectPath": "J:\\CyberPro\\Phonebook\\src\\Phonebook.Repository\\Phonebook.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

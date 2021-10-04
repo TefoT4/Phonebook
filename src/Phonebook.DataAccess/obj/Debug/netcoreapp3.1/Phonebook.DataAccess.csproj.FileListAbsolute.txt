@@ -1,0 +1,12 @@
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\bin\Debug\netcoreapp3.1\Phonebook.Models.dll
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.csprojAssemblyReference.cache
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.AssemblyInfoInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.AssemblyInfo.cs
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\bin\Debug\netcoreapp3.1\Phonebook.DataAccess.deps.json
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\bin\Debug\netcoreapp3.1\Phonebook.DataAccess.dll
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\bin\Debug\netcoreapp3.1\Phonebook.DataAccess.pdb
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\bin\Debug\netcoreapp3.1\Phonebook.Models.pdb
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.csproj.CoreCompileInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.csproj.CopyComplete
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.dll
+J:\CyberPro\Phonebook\src\Phonebook.DataAccess\obj\Debug\netcoreapp3.1\Phonebook.DataAccess.pdb

@@ -1,0 +1,9 @@
+J:\CyberPro\Phonebook\src\Phonebook.Models\bin\Debug\netcoreapp3.1\Phonebook.Models.deps.json
+J:\CyberPro\Phonebook\src\Phonebook.Models\bin\Debug\netcoreapp3.1\Phonebook.Models.dll
+J:\CyberPro\Phonebook\src\Phonebook.Models\bin\Debug\netcoreapp3.1\Phonebook.Models.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.AssemblyInfoInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.AssemblyInfo.cs
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.csproj.CoreCompileInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.dll
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Models\obj\Debug\netcoreapp3.1\Phonebook.Models.csprojAssemblyReference.cache

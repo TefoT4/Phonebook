@@ -1,0 +1,9 @@
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netstandard2.0\Phonebook.Domains.deps.json
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netstandard2.0\Phonebook.Domains.dll
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netstandard2.0\Phonebook.Domains.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.AssemblyInfoInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.AssemblyInfo.cs
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.csproj.CoreCompileInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.dll
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netstandard2.0\Phonebook.Domains.csprojAssemblyReference.cache

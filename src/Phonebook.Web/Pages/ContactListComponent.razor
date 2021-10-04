@@ -1,0 +1,50 @@
+
+@page "/ContactListComponent"
+
+<button class="h-10 px-5 m-2 text-green-100 transition-colors duration-150 bg-green-700 rounded-lg focus:shadow-outline hover:bg-green-800"
+        @onclick="AddContact">
+    Add Contact
+</button>
+
+@if (this.Contacts == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+<section class="grid sm:grid-cols-2 md:grid-cols-4 gap-6 p-20">
+
+    @foreach (var contact in Contacts)
+    {
+        <figure class="bg-white text-white h-80 rounded-lg shadow-md">
+            <img alt="user" class="w-32 h-32 rounded-full mx-auto mt-7" src=@contact?.PictureUrl />
+            <figcaption class="text-center mt-5">
+                <p class="text-gray-700 font-semibold text-xl mb-2">
+                    @contact?.Name
+                </p>
+                <p class="text-gray-500">
+                    <span class="font-medium">email: </span>@contact?.Email
+                </p>
+                <p class="text-gray-500">
+                    <span class="font-medium">phone: </span>@contact?.PhoneNumber
+                </p>
+                <p class="text-gray-500">
+                    <span class="font-medium">city: </span>@contact?.City
+                </p>
+                <div>
+                    <button class="h-10 px-5 m-2 text-blue-100 transition-colors duration-150 bg-blue-600 rounded-lg focus:shadow-outline hover:bg-blue-700"
+                            @onclick="@(() => UpdateContact(contact.Id))">
+                        Update
+                    </button>
+                    <button class="h-10 px-5 m-2 text-red-100 transition-colors duration-150 bg-red-700 rounded-lg focus:shadow-outline hover:bg-red-800"
+                            @onclick="@(() => DeleteContact(contact.Id))">
+                        Delete
+                    </button>
+                </div>
+            </figcaption>
+        </figure>
+    }
+
+</section>
+}
+

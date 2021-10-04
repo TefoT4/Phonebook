@@ -1,0 +1,16 @@
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Repository.deps.json
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Repository.dll
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Repository.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.DataAccess.dll
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Domains.dll
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Models.dll
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.DataAccess.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Domains.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Repository\bin\Debug\netcoreapp3.1\Phonebook.Models.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.csprojAssemblyReference.cache
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.AssemblyInfoInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.AssemblyInfo.cs
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.csproj.CoreCompileInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.csproj.CopyComplete
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.dll
+J:\CyberPro\Phonebook\src\Phonebook.Repository\obj\Debug\netcoreapp3.1\Phonebook.Repository.pdb

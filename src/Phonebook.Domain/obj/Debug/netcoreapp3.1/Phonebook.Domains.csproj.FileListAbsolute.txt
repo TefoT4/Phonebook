@@ -1,0 +1,8 @@
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netcoreapp3.1\Phonebook.Domains.deps.json
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netcoreapp3.1\Phonebook.Domains.dll
+J:\CyberPro\Phonebook\src\Phonebook.Domain\bin\Debug\netcoreapp3.1\Phonebook.Domains.pdb
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netcoreapp3.1\Phonebook.Domains.AssemblyInfoInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netcoreapp3.1\Phonebook.Domains.AssemblyInfo.cs
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netcoreapp3.1\Phonebook.Domains.csproj.CoreCompileInputs.cache
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netcoreapp3.1\Phonebook.Domains.dll
+J:\CyberPro\Phonebook\src\Phonebook.Domain\obj\Debug\netcoreapp3.1\Phonebook.Domains.pdb

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Phonebook.Core\Phonebook.Core.csproj" />
+    <ProjectReference Include="..\Phonebook.Domain\Phonebook.Domains.csproj" />
+    <ProjectReference Include="..\Phonebook.Models\Phonebook.Models.csproj" />
+    <ProjectReference Include="..\Phonebook.Repository\Phonebook.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
